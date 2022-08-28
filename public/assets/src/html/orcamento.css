@@ -111,20 +111,36 @@ align-items: center;
 }
 .tabela{
   background-color: #fcb62f;
-  padding: 10px;
+  padding: 15px;
   margin: 10px;
   width: 800px;
   text-align: center;
   border-radius: 5px;
-  
+ 
+
+}
+.tabela-item{
+background-color:#1a1100;
+color:#fcb62f;
+border-radius: 5px;
 
 }
 .tabela tr td{
   padding: 10px;
   font-weight: bold;
-  border: 1px solid #1a1100;
+  border: 1px solid #fcb62f;
 
 }
+.tabela-item-1{
+  background-color:rgb(26, 17, 0,0.1);
+color:#1a1100;
+}
+
+.tabela-item-2{
+  background-color:rgb(26, 17, 0,0.3);
+color:#1a1100;
+}
+
 .pedido{
   width: 200px;
   background-color:   #fcb62f;
